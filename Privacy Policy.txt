@@ -1,0 +1,46 @@
+Privacy Policy
+Last updated: February 26, 2026
+
+Introduction
+This Privacy Policy applies to the game Lucid Dread. We value your privacy and want to be transparent about how we handle your information. This document outlines our practices regarding data when you interact with our software on the Meta Quest platform.
+
+Data Collection and Use
+Lucid Dread is designed to be a standalone, immersive experience. The developer does not directly collect, store, or share personal data.
+
+  -Offline Experience: The game is designed to be played primarily offline. No personal identifiers or account creations are required to access the core gameplay.
+  -No External Accounts: The game does not use third-party logins, cloud saves (outside of the standard Meta system), or external leaderboards managed on private developer-side servers.
+
+Platform Analytics
+Meta provides anonymized, aggregated analytics to the developer through the Meta Quest Developer Dashboard. This data is processed by Meta and shared with us to help improve the game. It includes:
+
+  -Unique Users: The number of individuals who launched the app.
+  -Device Info: Hardware type (e.g., Quest 3, Quest 3S) and OS versions.
+  -Regional Data: Aggregated distribution of players by country.
+  -Performance: Technical crash reports and frame rate metrics.
+
+Note: These reports are strictly for performance monitoring and optimization. They do not contain personally identifiable information (PII).
+
+Internet Access and Permissions
+While Lucid Dread is a single-player experience, internet connectivity may be utilized by the Meta Quest system for:
+
+  -Standard platform updates and entitlement checks (verifying the license).
+  -Basic analytics reporting as described in the "Platform Analytics" section.
+
+No personal data, voice data, or sensitive information is transmitted to the developer's private servers.
+
+Data Deletion Requests
+Because Lucid Dread does not store personal data, user accounts, or contact information on private developer-side databases, there is no information for the developer to delete.
+Any platform-level data managed by Meta (such as your platform profile or achievements) can be addressed through:
+
+  -Your Meta account settings → Privacy Center.
+  -Or by contacting the developer for guidance at: 📧 ravensrosedev@gmail.com
+
+Children’s Privacy
+Lucid Dread does not knowingly collect personal information from children. Technical data processed for app stability and performance is handled esclusivamente by Meta according to their safety guidelines and age-gating for VR users.
+
+Changes to This Privacy Policy
+We may update this Privacy Policy from time to time to reflect changes in our practices or for other operational, legal, or regulatory reasons. If we introduce multiplayer features or third-party advertising in the future, this policy will be updated to reflect those changes.
+
+Contact Us
+If you have questions or concerns about this Privacy Policy or how your data is handled, please contact:
+📧 ravensrosedev@gmail.com
